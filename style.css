@@ -1,0 +1,61 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading{ 
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+h1{
+    padding-top: 5px;
+    padding-left: 250px;
+    padding-right: 200px;
+    font-size: 18px;
+    font-weight: bolder;
+    color: green;
+    outline: none;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 5px;
+}
+.intro{
+    font-size: 14px;
+    color: rgb(8, 85, 8);
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.details{
+    margin-top: 5px;
+    font-size: 14px;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+h3{
+    font-size: 18px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+.property{
+    margin-top: 10px;
+    font-size: 14px;
+    color: blue;
+    font-style: italic;
+}
+#parent{
+    /* list-style-type: none; */
+    font-size: 14px;
+    font-weight: bolder;
+    margin-bottom: 5px;
+}
+
+.child{
+    color: rgb(75, 44, 75);
+}
+ul  li{
+    list-style-type: circle;
+}
